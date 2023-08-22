@@ -1,0 +1,11 @@
+start
+↓
+a=N1
+↓
+check if a % 2 == 0
+↓
+┌─── Yes ──► print "The number is even."
+↓
+└─── No ───► print "The number is odd."
+↓
+end
